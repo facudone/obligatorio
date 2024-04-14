@@ -1,0 +1,14 @@
+user: admin
+password: admin
+
+user: user1
+password: user123123
+
+user: user2
+password: user2
+
+user: user3
+password: user3
+
+user: user4
+password: user4

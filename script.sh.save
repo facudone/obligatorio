@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Ingrese usuario"
+read usuario
+usuario="user: $usuario"
+lista="$(`grep -n $usuario usuarios.txt`)" 
+echo "$usuario"
+echo "$lista"
+
